@@ -1,7 +1,7 @@
 🌡️ Convertidor de Celsius a Fahrenheit en Python
 Este es un programa sencillo e interactivo desarrollado en Python que permite realizar conversiones de temperatura. El proyecto destaca por el uso de estructuras de control y manejo de excepciones para garantizar que el programa no se detenga ante entradas inválidas.
 
-🚀 FuncionalidadesInterfaz de Consola: Menú interactivo para elegir entre convertir grados o salir del programa.Conversión Precisa: Utiliza la fórmula estándar $F = (C \times 9/5) + 32$.Manejo de Errores: Implementa bloques try-except para capturar errores de entrada (como cuando el usuario ingresa letras en lugar de números).Bucle Continuo: El programa se mantiene activo hasta que el usuario decide finalizarlo explícitamente.
+🚀 Funcionalidades Interfaz de Consola: Menú interactivo para elegir entre convertir grados o salir del programa. Conversión Precisa: Utiliza la fórmula estándar $F = (C \times 9/5) + 32$. Manejo de Errores: Implementa bloques try-except para capturar errores de entrada (como cuando el usuario ingresa letras en lugar de números).Bucle Continuo: El programa se mantiene activo hasta que el usuario decide finalizarlo explícitamente.
 
 🛠️ Cómo funciona el código
 La función convertidor():
